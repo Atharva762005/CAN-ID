@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# Large, fully reproducible artifacts (regenerate with the commands in
+# README.md's "Reproducing from scratch" section) -- keeping these out of
+# git keeps the repo lightweight to clone/push. They ARE included in the
+# delivered project zip for convenience, just not tracked if you git-init
+# this folder.
+data/can_dataset.csv
+data/can_features.csv
+results/test_split.csv
+results/models.joblib
+demo/replay_data.json

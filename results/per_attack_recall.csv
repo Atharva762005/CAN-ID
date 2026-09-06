@@ -1,0 +1,5 @@
+attack_type,n,recall_isolation_forest,recall_autoencoder
+dos,43211,1.0,1.0
+fuzzy,25579,0.5992806599163376,0.9715391532116189
+rpm_spoof,4806,0.9997919267582189,1.0
+gear_spoof,3939,0.9994922569179995,1.0
